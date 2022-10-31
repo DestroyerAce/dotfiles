@@ -146,7 +146,7 @@ method = ncurses
  gradient = 1
  gradient_count = 2
  gradient_color_1 = '#fdf790'
- gradient_color_2 = '#fb6f34'
+ gradient_color_2 = '#fb8c00'
  # gradient_color_3 = '#fb6f34'
 
 
